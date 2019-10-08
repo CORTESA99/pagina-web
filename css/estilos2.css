@@ -1,0 +1,83 @@
+#principal {
+	
+	width: 900px;
+	height: 1000px;
+	border: 5px solid #FFF700;
+	margin: auto;
+
+}
+header{
+	width: 900px;
+	height: 100px;
+	border: 1px solid #000;
+}
+#logo{
+	width: 200px;
+	height: 100px;
+	border: 1px solid #025;
+	float: left;
+}
+.Menu{
+	width: 900px;
+	height: 100px;
+	border: 5px solid #025;
+	float: right;
+	margin-top: 40px;
+	background: #DEDEC9;
+}
+
+.Menu ul{
+
+}
+.Menu ul li{
+	list-style: none;
+	float: right;
+}
+.Menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: px solid #000;
+	color: #111BF8  ;
+	font: bold 90% cursive;
+}
+#Categorias{
+	width: 900px;
+	height: auto;
+	overflow: hidden;
+	border: 5px solid #02114F55;
+	margin-top: 60px ;
+
+}
+
+.Uno{
+	width: 200px;
+	height: 200px;
+	border: 1px solid #874454A4;
+	float: left;
+	padding: 5px;
+	text-align: center;
+}
+
+.Dos{
+	width: 200px;
+	height: 200px;
+	border: 1px solid #98412A44;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.Tres{
+	width: 200px;
+	height: 200px;
+	border: 1px solid #62554D54;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+
+#Slide{
+	margin-top: 10px;
+	width:700px;
+	height: 120px;
+	border: 1px solid #7155F2; 
+}
